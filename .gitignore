@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+._*
+
+# editor / temp
+*.tmp
+*.swp
+Thumbs.db
